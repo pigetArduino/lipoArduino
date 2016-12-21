@@ -22,12 +22,12 @@ How to use lipo batteries with Arduino
 ![Lipo batteries and arduino mini pro 3v](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_wiring.png)
 
 # Charge test.
-Estimation : 1h00 on 250ma
-260mah/250
+Estimation : 1h00 on 250ma    
+260mah/250   
 
 # Discharge test
-* Sketch used: Blink
-Estimation : 2h30 (100ma / 260 --> 2.6h)
+* Sketch used: Blink        
+Estimation : 2h30 (100ma / 260 --> 2.6h)      
 
 Source:    
 * What's in a "C" Rating : https://www.commonsenserc.com/page.php?page=c_ratings_explained.html   
