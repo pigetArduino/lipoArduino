@@ -1,6 +1,7 @@
 How to use lipo batteries with Arduino
+---------------------------------------
 
-** WARNING I'm not an expert on batteries, and this is just my research ONLY based on experimentation **
+**WARNING I'm not an expert on batteries, and this is just my research ONLY based on experimentation**
 
 * Voltage:3.7v    
 * Capacity: 260mah    
@@ -28,5 +29,7 @@ Estimation : 1h00 on 250ma
 Estimation : 2h30 (100ma / 260 --> 2.6h)
 
 Source:    
-What's in a "C" Rating    
-https://www.commonsenserc.com/page.php?page=c_ratings_explained.html   
+* What's in a "C" Rating : https://www.commonsenserc.com/page.php?page=c_ratings_explained.html   
+* https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+* http://electronics.stackexchange.com/questions/152931/how-to-autoregulate-a-tp4056-for-maximum-solar-power-extraction
+* http://www.electrodragon.com/w/Battery_Charge
