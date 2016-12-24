@@ -1,6 +1,6 @@
 Comment utiliser une batteries lipo avec un Arduino
 ---------------------------------------
-
+![Lipo batteries and arduino mini pro 3v Photo](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_photo.jpg)
 **Attention: Je ne suis pas un expert en batteries, ceci n'est que mes recherches basés uniquement sur l'expérimentation**
 
 **Le tp4056 ne peut recharger que des batteries de 1C et une seul batterie à la fois**
