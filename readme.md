@@ -2,6 +2,8 @@ How to use lipo batteries with Arduino
 ---------------------------------------
 [Version française](https://github.com/pigetArduino/lipoArduino/blob/master/readme.fr.md)
 
+![Lipo batteries and arduino mini pro 3v Photo](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_photo.jpg)
+
 **WARNING I'm not an expert on batteries, and this is just my research ONLY based on experimentation**     
 **tp4056 can only charge 1C battery  and only one**      
 * Voltage:3.7v    
@@ -19,7 +21,7 @@ How to use lipo batteries with Arduino
 * You need to cut the cable of the batteries to solder it to the tp4056 charger. Do it with caution!
 * You need to replace the rprog resistor on tp4056 with 5kOhm resistor
  
-![Lipo batteries and arduino mini pro 3v](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_wiring.png)
+![Lipo batteries and arduino mini pro 3v Wiring](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_wiring.png)
 
 # Charge test.
 Estimation : 1h00 on 250ma    
