@@ -26,10 +26,6 @@ Comment utiliser une batteries lipo avec un Arduino
 Estimation : 1h00 on 250ma   
 260mah/250    
 
-# Test de décharge
-* Croquis utilisé: Blink
-Estimation : 2h30 (100ma / 260 --> 2.6h)
-
 Sources (en anglais):    
 * What's in a "C" Rating : https://www.commonsenserc.com/page.php?page=c_ratings_explained.html   
 * https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
