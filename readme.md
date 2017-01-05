@@ -6,7 +6,7 @@ How to use lipo batteries with Arduino
 
 ![Warning sign](https://github.com/pigetArduino/lipoArduino/raw/master/doc/warning.png) 
 
-**This is just my research ONLY based on experimentation, this will void the warranties on the batteries **     
+**This is just my research ONLY based on experimentation, this will void the warranties on the batteries**     
 **tp4056 can only charge 1C battery  and only one**      
 * Voltage:3.7v    
 * Capacity: 260mah    
