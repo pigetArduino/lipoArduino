@@ -4,6 +4,8 @@ How to use lipo batteries with Arduino
 
 ![Lipo batteries and arduino mini pro 3v Photo](https://github.com/pigetArduino/lipoArduino/raw/master/doc/lipo_arduino_photo.jpg)
 
+Datasheet : https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+
 ![Warning sign](https://github.com/pigetArduino/lipoArduino/raw/master/doc/warning.png) 
 
 **This is just my research ONLY based on experimentation, this will void the warranties on the batteries**     
@@ -28,6 +30,12 @@ How to use lipo batteries with Arduino
 # Charge test.
 Estimation : 1h00 on 250ma     
 260mah/250    
+
+# How to get Ibat (Charging ma)
+Ibat = VPROG/RPROG * 1200 (VPROG=1V)     
+Ibat = 1/5 * 1200 = 240ma        
+Ibat = 1/1.6 * 1200 = 750ma       
+
 
 Source:    
 * What's in a "C" Rating : https://www.commonsenserc.com/page.php?page=c_ratings_explained.html   
